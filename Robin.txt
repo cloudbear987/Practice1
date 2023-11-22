@@ -1,0 +1,9 @@
+Experience the power of cloud computing with Azure
+<br>
+Virtual Machines, Managed Disks, and SQL databases
+<br>
+while providing high availability and scalable
+<br>
+performance with load-balanced Virtual Machine Scale
+<br>
+Sets.
